@@ -22,8 +22,9 @@ Rota: /
 - Permite visualizar a lista de produtos com suas informações.
 - Fornece links para visualizar, editar e excluir cada produto.
 - Permite a criação de um novo produto.
-  
-  ![image](https://github.com/matehus-henrique/UITEC---Solu-es-Tecnologicas---teste-trainee/assets/53536966/c80023c9-d310-4411-9843-d2f45151ab3e)
+- 
+  ![image](https://github.com/matehus-henrique/UITEC-Solu-Tecnologicas-teste-trainee/assets/53536966/69427d62-a285-4301-9aa2-543510fa10cf)
+
 
 
 ### 2. Visualizar Produto:
@@ -32,7 +33,8 @@ Rota: /products/show/{id}
 - Exibe detalhes de um produto específico, incluindo seu nome, categoria, valor, data de vencimento, quantidade em estoque e se é perecível.
 - Fornece links para editar ou excluir o produto.
 
-  ![image](https://github.com/matehus-henrique/UITEC---Solu-es-Tecnologicas---teste-trainee/assets/53536966/015d9364-e511-4029-ace1-9c5957b9dfd5)
+ ![image](https://github.com/matehus-henrique/UITEC-Solu-Tecnologicas-teste-trainee/assets/53536966/5fcaae49-f8a9-4f44-ac01-9faa8406b2f4)
+
 
 
 ### 3. Editar Produto:
@@ -41,7 +43,8 @@ Rota: /products/edit/{id}
 - Permite editar os campos de um produto existente, como nome, categoria, valor, data de vencimento, quantidade em estoque e perecibilidade.
 - Salva as alterações no banco de dados.
 
-  ![image](https://github.com/matehus-henrique/UITEC---Solu-es-Tecnologicas---teste-trainee/assets/53536966/960240f3-f68a-474a-9100-d012f49b49bb)
+ ![image](https://github.com/matehus-henrique/UITEC-Solu-Tecnologicas-teste-trainee/assets/53536966/2e16c495-bc2f-448a-8868-935b138312be)
+
 
 
 ### 4. Adicionar Produto:
@@ -50,7 +53,8 @@ Rota: /products/create
 - Permite adicionar um novo produto com campos como nome, categoria, valor, data de vencimento, quantidade em estoque e perecibilidade.
 - Salva o novo produto no banco de dados.
 
-![image](https://github.com/matehus-henrique/UITEC---Solu-es-Tecnologicas---teste-trainee/assets/53536966/357d2c5d-6ef1-4d56-94cc-6114008e5520)
+![image](https://github.com/matehus-henrique/UITEC-Solu-Tecnologicas-teste-trainee/assets/53536966/9919ee2d-7661-45d4-b540-d7dbdfac2b0f)
+
 
 
 ## Uso das Rotas
